@@ -17,7 +17,7 @@ const Banner = () => {
 {/* 
                                 <p className="right-sub-text">
                                     <span>
-                                        -KEIKO PALMER
+                                        -
                                    </span>
                                 </p> */}
 

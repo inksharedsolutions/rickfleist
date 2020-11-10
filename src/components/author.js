@@ -14,8 +14,8 @@ const Author = () => {
                         </p>
 
                         <h1 className="author-name-tag">
-                            <span>Rick F</span>
-                            <span>Leist</span>
+                            <span>Rick</span>
+                            <span>Michaels</span>
                         </h1>
 
                         <span className="author-tagline">

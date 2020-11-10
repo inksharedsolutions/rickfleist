@@ -43,7 +43,7 @@ const ATB = (props) => {
                             <p>
                                 <span className="author-name">
                                     <span className="author-span-ft">Author | Writer </span>
-                                    <span className="ata-name">Rick F Leist</span>
+                                    <span className="ata-name">Rick Michaels</span>
                                 </span>
                             </p>
 

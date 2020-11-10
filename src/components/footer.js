@@ -23,7 +23,7 @@ const Footer = () => {
                         </h1>
 
                         <p>
-                            Keiko Palmer loves to hear from readers. You can reach her via email.
+                            Rick Michaels loves to hear from readers. You can reach her via email.
                             Feel free to send questions about writing, her works, interviews
                             and other publicity matters.
                         </p>
@@ -70,7 +70,7 @@ const Footer = () => {
                                 <li>
                                     <a
                                         target="_blank"
-                                        href="https://www.goodreads.com/book/show/47960792-delayed-justice"
+                                        href="https://www.goodreads.com/book/show/52263733-just-a-couple-days"
                                         rel="noreferrer"
                                     >
 
@@ -99,7 +99,7 @@ const Footer = () => {
                             </li>
                             <li>
                                 <Link to="/about-the-book">
-                                    Books
+                                    About the Book
                                 </Link>
                             </li>
                             <li>
