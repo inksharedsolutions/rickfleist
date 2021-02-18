@@ -68,7 +68,6 @@ const Nav = (props) => {
                 </li>
             </nav>
 
-
             <nav className="burger-nav">
                 <h1>
                     <Link
@@ -83,12 +82,11 @@ const Nav = (props) => {
                         <img
                             className="logo-img"
                             src={Logo}
+                            alt="author-logo"
                         />
 
                     </Link>
                 </h1>
-
-                <h1></h1>
 
                 <ul
                     className="hamburger-ul"
