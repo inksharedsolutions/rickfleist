@@ -5,6 +5,7 @@ import Banner from '../components/non-front-banner'
 import BookInfo from '../components/book-info/book-info'
 import { DiscussionEmbed } from "disqus-react"
 import Book1 from '../../static/books/Book_Cover.png'
+import { Helmet } from 'react-helmet'
 
 const ATB = (props) => {
 
@@ -19,6 +20,7 @@ const ATB = (props) => {
     return (
         <>
             <Layout>
+                <Helmet title="About the Book | Rick Michaels" />
                 <Nav pathExt={props.path} />
 
                 <Banner

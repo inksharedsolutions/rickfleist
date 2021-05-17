@@ -12,7 +12,7 @@ const MidMain = () => {
                     <div className="grid-two-columns">
                         <div class="grid-child">
                             <h5>Rick Michaels</h5>
-                            <h1><span>Book</span><span>Trailer</span></h1>
+                            <h1><span>Radio</span><span>Interview</span></h1>
                             <p>Just like how the story of the book goes, the process in writing it was also a journey. Hear about it from the author himself. Click the play button and learn more.</p>
                         </div>
                         <div class="grid-child">
